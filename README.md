@@ -1,26 +1,28 @@
-<h1 align="center">👋 Hi, I'm Denis</h1>
-<h3 align="center">Python Backend Developer</h3>
+<h1 align="center">🚀 Denis Kutsov | Backend Engineer</h1>
+<h3 align="center">Architecting Scalable Systems & Efficient Solutions</h3>
 
 ---
 
-### 🚀 Core Stack
-**Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
-
-**Infrastructure & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🔍 Professional Identity
+**Python backend specialist** with production-grade expertise in API development and cloud-native architecture. Focused on building **high-performance services** that balance technical excellence with business pragmatism. Proven ability to transform requirements into reliable systems.
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <a href="https://github.com/Zaxemy">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Zaxemy&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaxemy&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css" />
-  </a>
-</p>
+### 🧠 Core Competencies
+- **API-First Development**: Designing clean contract-first interfaces
+- **Infrastructure Optimization**: Creating resource-efficient environments
+- **Database Architecture**: Structuring data for scalability and integrity
+- **Deployment Automation**: Streamlining CI/CD pipelines
+- **Performance Tuning**: Identifying and resolving bottlenecks
+
+---
+
+### 🏆 Project Philosophy
+```python
+def develop_solution():
+    return PrincipleDrivenDesign(
+        maintainability = True,
+        scalability = AutoScaling(),
+        security = "Layered Protections",
+        documentation = LivingDocs()
+    )
