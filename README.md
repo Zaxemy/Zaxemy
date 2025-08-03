@@ -1,22 +1,13 @@
 <h1 align="center">👋 Hi, I'm Denis</h1>
 <h3 align="center">Python Backend Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/Zaxemy">
-    <img src="https://komarev.com/ghpvc/?username=Zaxemy&label=Profile%20views&color=blue&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/Zaxemy?tab=repositories">
-    <img alt="repositories" src="https://img.shields.io/badge/Projects-12+_(and_counting)-blueviolet?style=flat" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 Core Stack
 **Backend**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
 
 **Infrastructure & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
