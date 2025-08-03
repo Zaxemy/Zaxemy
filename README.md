@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Denis</h1>
+<h3 align="center">Python Backend Developer</h3>
 
-<!--
-**Zaxemy/Zaxemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Zaxemy">
+    <img src="https://komarev.com/ghpvc/?username=Zaxemy&label=Profile%20views&color=blue&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/Zaxemy?tab=repositories">
+    <img alt="repositories" src="https://img.shields.io/badge/Projects-12+_(and_counting)-blueviolet?style=flat" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Core Stack
+**Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Infrastructure & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Zaxemy">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Zaxemy&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaxemy&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css" />
+  </a>
+</p>
