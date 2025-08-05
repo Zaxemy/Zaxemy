@@ -10,10 +10,10 @@
 ## 🌑 Backend Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="Fastapi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" />
-  <img src="https://www.logo.wine/a/logo/Fastapi/Fastapi-original.svg" width="36" height="36" alt="Fastpi" />
   <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="36" height="36" alt="Docker" />
 </p>
 
