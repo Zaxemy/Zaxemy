@@ -25,9 +25,6 @@
   <a href="https://t.me/denchik_it" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" width="36" height="36" alt="Telegram" />
   </a>
-  <a href="https://www.tiktok.com/@denchik32_it" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none">
-    <img src="https://www.svgrepo.com/show/452114/tiktok.svg" width="36" height="36" alt="TikTok" />
-  </a>
 </p>
 
 
