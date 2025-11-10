@@ -4,7 +4,7 @@
 
 # Hi, I'm Denis Dobrenko 👋
 - 🏆 **My grade** - Intern Python Developer  
-- 💻 **My experience** - 4 mounth  
+- 💻 **My experience** - 4 months  
 - 👦 **Age** - 15 y.o
 
 ## 🌑 Backend Skills
